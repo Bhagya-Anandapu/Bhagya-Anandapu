@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Bhagya-Anandapu
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Android and IOS Applications
-- 📫 Reach me at aanandapubhagya@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I learn things by including them in some fantasy story 😉
+👋 Hi, I’m Bhagya
 
-<!---
-Bhagya-Anandapu/Bhagya-Anandapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like learning new technologies by building small projects and experimenting with them.  
+I’m interested in exploring different areas of software development and understanding how things work under the hood.
+
+🌱 Currently learning and working with:
+- Java and Spring Boot
+- Automation and testing tools
+- Linux and scripting
+- Cloud and platform concepts
+
+💞️ Open to collaborating on projects where I can learn, build, or experiment with new ideas.
+
+📫 Reach me at: bhagyaanandapu1606@gmail.com  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I often understand technical concepts by turning them into little stories in my head 🙂
